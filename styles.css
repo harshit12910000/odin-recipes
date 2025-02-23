@@ -1,0 +1,28 @@
+#heading {
+    color: white;
+    background-color: darkblue;
+    text-align: center;
+}
+
+.recipe {
+    font-size: 40px;
+    color: black;
+    width: auto;
+    height: auto;
+    
+}
+
+.home {
+    color: black;
+    font-weight: 600;
+    font-size: 30px;
+    display: inline-block; 
+    padding: 10px 20px;  
+    background-color: #ff6347;  
+    color: white;  
+    text-decoration: none;  
+    border-radius: 5px;  
+    font-size: 16px;  
+    font-weight: bold;  
+    transition: 0.3s ease-in-out;
+}
